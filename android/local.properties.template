@@ -1,0 +1,13 @@
+# This file should contain the path to your Flutter SDK
+# Example:
+# flutter.sdk=/path/to/flutter
+# 
+# For Windows:
+# flutter.sdk=C:\\Users\\YourName\\flutter
+#
+# For macOS/Linux:
+# flutter.sdk=/Users/YourName/flutter
+# or
+# flutter.sdk=/home/username/flutter
+
+flutter.sdk=/tmp/flutter
